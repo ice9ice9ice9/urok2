@@ -1,0 +1,15 @@
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/задача3.csproj.AssemblyReference.cache
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/задача3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/задача3.AssemblyInfoInputs.cache
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/задача3.AssemblyInfo.cs
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/задача3.csproj.CoreCompileInputs.cache
+/Users/IceIX/Desktop/seminar2/задача3/bin/Debug/net6.0/задача3
+/Users/IceIX/Desktop/seminar2/задача3/bin/Debug/net6.0/задача3.deps.json
+/Users/IceIX/Desktop/seminar2/задача3/bin/Debug/net6.0/задача3.runtimeconfig.json
+/Users/IceIX/Desktop/seminar2/задача3/bin/Debug/net6.0/задача3.dll
+/Users/IceIX/Desktop/seminar2/задача3/bin/Debug/net6.0/задача3.pdb
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/задача3.dll
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/refint/задача3.dll
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/задача3.pdb
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/задача3.genruntimeconfig.cache
+/Users/IceIX/Desktop/seminar2/задача3/obj/Debug/net6.0/ref/задача3.dll
